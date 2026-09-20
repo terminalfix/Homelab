@@ -31,10 +31,10 @@ Main workstation used for:
 
 | Component          | Specification    |
 | ------------------ | ---------------- |
-| CPU                | Intel Xeon X3440 |
+| CPU                | Intel Xeon       |
 | Operating System   | OpenMediaVault   |
-| Storage            | 4 × HDD          |
-| Additional Storage | SSD              |
+| Storage            | 4 × 2TB HDD      |
+| Additional Storage | SSD 240GB        |
 | Containers         | Docker           |
 
 ### Purpose
