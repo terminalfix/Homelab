@@ -4,15 +4,16 @@ Hardware used across the TerminalFix homelab and workstation environment.
 
 ## 🖥️ Main Workstation
 
-| Component           | Specification                |
-| ------------------- | ---------------------------- |
-| CPU                 | AMD Ryzen 7 5700             |
-| GPU                 | NVIDIA RTX 3090 24 GB        |
-| RAM                 | 64 GB                        |
-| System Drive        | Kingston NVMe 500 GB         |
-| Additional Storage  | Toshiba HDD 8 TB             |
-| Operating System    | Debian GNU/Linux 13 (Trixie) |
-| Desktop Environment | GNOME                        |
+| **Component**       | **Specification**                  |
+| ------------------- | ---------------------------------- |
+| CPU                 | AMD Ryzen 7 5700                   |
+| Motherboard         | ASRock B550 Phantom Gaming 4/ac    |
+| RAM                 | 64 GB DDR4-3200 (2 × 32 GB A-DATA) |
+| GPU                 | NVIDIA GeForce RTX 3090 24 GB      |
+| System Drive        | Kingston NV2 500 GB NVMe           |
+| Additional Storage  | Toshiba HDWR180 8 TB HDD           |
+| Operating System    | Debian GNU/Linux 13 (Trixie)       |
+| Desktop Environment | GNOME                              |
 
 ### Purpose
 
@@ -29,13 +30,13 @@ Main workstation used for:
 
 ## 🗄️ NAS / Server
 
-| Component          | Specification    |
-| ------------------ | ---------------- |
-| CPU                | Intel Xeon       |
-| Operating System   | OpenMediaVault   |
-| Storage            | 4 × 2TB HDD      |
-| Additional Storage | SSD 240GB        |
-| Containers         | Docker           |
+| **Component**    | **Specification**     |
+| ---------------- | --------------------- |
+| CPU              | Intel Xeon            |
+| RAM              | 16 GB                 |
+| Storage          | 4 TB HDD + 240 GB SSD |
+| Operating System | OpenMediaVault        |
+| Containers       | Docker                |
 
 ### Purpose
 
@@ -46,3 +47,29 @@ The server is primarily used for:
 * Docker services
 * Self-hosted applications
 * Backup and storage management
+
+---
+
+## 💻 Noblex SF20GM7
+
+| **Component**    | **Specification**   |
+| ---------------- | ------------------- |
+| Model            | MF50GM V1.2         |
+| CPU              | Intel Celeron N4020 |
+| RAM              | 4 GB DDR4           |
+| Storage          | 256 GB M.2          |
+| Operating System | Huayra GNU/Linux    |
+
+---
+
+## 💻 Noblex SF20BA
+
+| **Component**    | **Specification**        |
+| ---------------- | ------------------------ |
+| Model            | SF20BA                   |
+| CPU              | Intel Celeron N3060      |
+| RAM              | 4 GB DDR3L               |
+| Storage          | 128 GB eMMC              |
+| Operating System | Windows 10 Pro Education |
+
+**Status:** Previous system, currently not in regular use.
