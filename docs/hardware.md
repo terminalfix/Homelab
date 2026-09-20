@@ -70,24 +70,3 @@ Technical support
 Linux administration
 
 ---
-
-## 💻 Noblex SF20BA
-
-| **Component**    | **Specification**        |
-| ---------------- | ------------------------ |
-| Model            | SF20BA                   |
-| CPU              | Intel Celeron N3060      |
-| RAM              | 4 GB DDR3L               |
-| Storage          | 128 GB eMMC              |
-| Operating System | Windows 10 Pro Education |
-
-### Purpose
-
-Previous portable system used for:
-
-Technical support
-Testing
-Windows administration
-Educational technology
-
-#### Status: Currently not in regular use.
