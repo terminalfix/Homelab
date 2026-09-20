@@ -60,6 +60,15 @@ The server is primarily used for:
 | Storage          | 256 GB M.2          |
 | Operating System | Huayra GNU/Linux    |
 
+### Purpose
+
+Portable system used for:
+
+Work
+Educational technology
+Technical support
+Linux administration
+
 ---
 
 ## 💻 Noblex SF20BA
@@ -72,4 +81,13 @@ The server is primarily used for:
 | Storage          | 128 GB eMMC              |
 | Operating System | Windows 10 Pro Education |
 
-**Status:** Previous system, currently not in regular use.
+### Purpose
+
+Previous portable system used for:
+
+Technical support
+Testing
+Windows administration
+Educational technology
+
+### Status: Currently not in regular use.
