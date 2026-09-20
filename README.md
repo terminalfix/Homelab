@@ -14,7 +14,7 @@ The goal of this repository is to document the infrastructure, configuration and
 | ---------------- | --------------------------------------- | ---------------- |
 | Main Workstation | Development / Gaming / Administration   | Debian GNU/Linux |
 | NAS / Server     | Storage / Docker / Self-hosted services | OpenMediaVault   |
-
+| Work Netbook     | Mobile Work / Educational Technology    | Huayra GNU/Linux |
 ---
 
 ## 📚 Documentation
